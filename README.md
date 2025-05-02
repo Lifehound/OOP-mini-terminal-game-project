@@ -30,7 +30,7 @@ Type in the required commands to interact with characters and progress through t
 
 ### Project structure
 
-OOP-mini-terminal-game-project/
+<pre lang="markdown"> OOP-mini-terminal-game-project/
 ├── main.py
 ├── rpg/
 │   ├── __init__.py
@@ -55,5 +55,5 @@ OOP-mini-terminal-game-project/
 │   ├── test_room.py
 │   └── test_weapon.py
 ├── main.py
-└── requirements.txt
+└── requirements.txt </pre>
 
